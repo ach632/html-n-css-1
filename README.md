@@ -1,1 +1,1 @@
-# html-n-css-1
+A Static HTML and CSS project named Programming Pathshala Landing page.
